@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474634897 source:c:\users\monica\desktop\trabajos practicos 2cuatrimestre\tp_2_bidart_m\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474632098 c:\users\monica\desktop\trabajos practicos 2cuatrimestre\tp_2_bidart_m\funciones.h
+
+1474635495 source:c:\users\monica\desktop\trabajos practicos 2cuatrimestre\tp_2_bidart_m\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
