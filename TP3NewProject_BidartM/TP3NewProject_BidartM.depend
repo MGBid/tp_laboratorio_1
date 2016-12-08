@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1481052505 source:c:\users\monica\desktop\implementacion arraylist\tp3newproject_bidartm\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1481156370 c:\users\monica\desktop\implementacion arraylist\tp3newproject_bidartm\lib.h
+
+1481044179 source:c:\users\monica\desktop\implementacion arraylist\tp3newproject_bidartm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
